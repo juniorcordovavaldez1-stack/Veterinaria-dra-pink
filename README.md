@@ -1,6 +1,6 @@
 # Veterinaria-dra-pink
 Página oficial de la veterinaria Dra. Pink
-<!DOCTYPE html>
+<>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
