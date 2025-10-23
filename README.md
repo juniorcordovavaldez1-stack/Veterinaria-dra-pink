@@ -8,6 +8,10 @@ Página oficial de la veterinaria Dra. Pink
     <title>Veterinaria Dra. Pink</title>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;700&display=swap" rel="stylesheet">
 </head>
+<a href="https://wa.me/51988277398" target="_blank" class="whatsapp-button">
+  📲 Contáctame aquí
+</a>
+
   
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
