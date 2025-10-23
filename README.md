@@ -7,9 +7,6 @@ Página oficial de la veterinaria Dra. Pink
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Veterinaria Dra. Pink</title>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;700&display=swap" rel="stylesheet">
-</head>
-<a href="https://wa.me/51988277398" target="_blank" class="whatsapp-button">
-  📲 Contáctame aquí
 </a>
 
   
@@ -80,6 +77,11 @@ Página oficial de la veterinaria Dra. Pink
   </style>
 </head>
 <body>
+<!-- BOTÓN DE WHATSAPP -->
+<a href="https://wa.me/51988277398" target="_blank" class="whatsapp-button">
+  📲 Contáctame aquí
+</a>
+
 
   <header>
     <h1>Veterinaria Dra. Pink</h1>
@@ -131,3 +133,24 @@ Página oficial de la veterinaria Dra. Pink
 
 </body>
 </html>
+/* --- Botón de WhatsApp flotante --- */
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25D366;
+  color: white;
+  font-weight: 600;
+  padding: 15px 25px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-size: 18px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  z-index: 1000;
+}
+
+.whatsapp-button:hover {
+  background-color: #1ebe5d;
+  transform: scale(1.1);
+}
